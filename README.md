@@ -1,10 +1,8 @@
 # UNO CUBAN STYLE APP
 
-## This app is to play one of the most popular card game,UNO BUT Cuban Style which means we have to follow our set of rules.
+## This app is to play one of the most popular card games,UNO BUT Cuban Style which means you have to follow our set of rules.
 
-## Rules Explination
-
-## Coming Soon
+## Rules Explination (Coming Soon)
 
 ## Local Env set up
 
